@@ -1,0 +1,9 @@
+m1=eval(input("ENtet the marks of subject1 "))
+m2=eval(input("ENtet the marks of subject2 "))
+m3=eval(input("ENtet the marks of subject3 "))
+m4=eval(input("ENtet the marks of subject4 "))
+m5=eval(input("ENtet the marks of subject5 "))
+total_marks=m1+m2+m3+m4+m5
+print("Total Marks=",total_marks)
+percentage=total_marks*100/500
+print("Percentage=",percentage)
